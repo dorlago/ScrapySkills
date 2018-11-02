@@ -1,6 +1,5 @@
 # 构造随机请求头
 
-
 from fake_useragent import UserAgent
 
 ua = UserAgent()
